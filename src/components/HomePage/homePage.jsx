@@ -23,7 +23,7 @@ function HomePage() {
 
   return (
     <div className="p-6">
-      <nav className="bg-white border-gray-200 dark:border-gray-200 dark:bg-gray-700 rounded-xl">
+      <nav className="border-gray-200 bg-gray-700 rounded-xl">
         <div className="flex flex-wrap justify-between w-full py-3 px-4">
           <div className="flex items-center w-1/6">
             <img src="fetch_logo.png" className="h-12" alt="Flowbite Logo" />
