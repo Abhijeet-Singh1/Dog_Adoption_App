@@ -65,4 +65,8 @@ For best experience please launch the application in Google Chrome.
 
 ## Live Application URL
 
-https://dog-adoption-dz13s8j9z-abhijeet-singh-ahluwalias-projects.vercel.app/
+Application can be found live on both of the links.
+
+https://dog-adoption-dz13s8j9z-abhijeet-singh-ahluwalias-projects.vercel.app/ 
+                              OR
+https://dog-adoption-2ocscplof-abhijeet-singh-ahluwalias-projects.vercel.app/
