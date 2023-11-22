@@ -67,6 +67,6 @@ For best experience please launch the application in Google Chrome.
 
 Application can be found live on both of the links.
 
-https://dog-adoption-dz13s8j9z-abhijeet-singh-ahluwalias-projects.vercel.app/    </br>
+https://dog-adoption-84hvt1t8r-abhijeet-singh-ahluwalias-projects.vercel.app/   [Link with updated code] </br>
                               AND          <br>
-https://dog-adoption-2ocscplof-abhijeet-singh-ahluwalias-projects.vercel.app/
+https://dog-adoption-dz13s8j9z-abhijeet-singh-ahluwalias-projects.vercel.app/
