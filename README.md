@@ -61,7 +61,7 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 ## Local Run
 
-For best experience please launch the application in Google Chrome
+For best experience please launch the application in Google Chrome.
 
 ## Live Application URL
 
